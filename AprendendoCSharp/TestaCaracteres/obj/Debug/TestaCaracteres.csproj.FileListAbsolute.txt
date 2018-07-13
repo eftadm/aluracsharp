@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\AprendendoCSharp\TestaCaracteres\bin\Debug\TestaCaracteres.exe.config
+C:\Users\Usuario\source\repos\AprendendoCSharp\TestaCaracteres\bin\Debug\TestaCaracteres.exe
+C:\Users\Usuario\source\repos\AprendendoCSharp\TestaCaracteres\bin\Debug\TestaCaracteres.pdb
+C:\Users\Usuario\source\repos\AprendendoCSharp\TestaCaracteres\obj\Debug\TestaCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\AprendendoCSharp\TestaCaracteres\obj\Debug\TestaCaracteres.exe
+C:\Users\Usuario\source\repos\AprendendoCSharp\TestaCaracteres\obj\Debug\TestaCaracteres.pdb

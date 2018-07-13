@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\AprendendoCSharp\ExercicioString\bin\Debug\ExercicioString.exe.config
+C:\Users\Usuario\source\repos\AprendendoCSharp\ExercicioString\bin\Debug\ExercicioString.exe
+C:\Users\Usuario\source\repos\AprendendoCSharp\ExercicioString\bin\Debug\ExercicioString.pdb
+C:\Users\Usuario\source\repos\AprendendoCSharp\ExercicioString\obj\Debug\ExercicioString.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\AprendendoCSharp\ExercicioString\obj\Debug\ExercicioString.exe
+C:\Users\Usuario\source\repos\AprendendoCSharp\ExercicioString\obj\Debug\ExercicioString.pdb
